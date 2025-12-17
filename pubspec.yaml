@@ -1,0 +1,19 @@
+name: flutter_login_sharedprefs_mohammad_sadiq
+description: A simple Flutter login page using SharedPreferences. Created for Mohammad Sadiq.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
